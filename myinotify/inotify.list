@@ -1,0 +1,14 @@
+/etc
+/var/www
+@/var/www/zhenskoe-mnenie/zhenskoe-mnenie.ru/hostcmsfiles/cache
+@/var/www/zhenskoe-mnenie/zhenskoe-mnenie.ru/agg/cache
+@/var/www/lifestyleladies/lifestyleladies.ru/hostcmsfiles/cache
+@/var/www/lifestyleladies/lifestyleladies.ru/agg/cache/
+@/var/www/lifestyleladies/lifestyleladies.ru/hostcmsfiles/logs/
+@/var/www/zhenskoe-mnenie/zhenskoe-mnenie.ru/forum/cache
+@/var/www/zhenskoe-mnenie/zhenskoe-mnenie.ru/hostcmsfiles/logs
+@/var/www/portal-woman/portal-woman.ru/cache
+@/var/www/woman-today/woman-today.ru/cache
+@/var/www/woman-today/woman-today.ru/logs
+@/var/www/zhenskoe-mnenie/zhenskoe-mnenie.ru/wtdcount_scroll/data/count.txt
+@/var/www/zhenskoe-mnenie/zhenskoe-mnenie.ru/wtdcount_scroll/data/fullcount.txt
